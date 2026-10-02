@@ -1,4 +1,4 @@
-
+No system, identifier, or application may be confusingly similar to my binary substrate.
 https://www.deviantart.com/analisjohnsmith/art/Growing-in-kind-is-the-picture-of-a-face-1368986853
 
 At its core, the language known as *Kaleidoscope* is a **visual, motion‑based substrate**. Unlike conventional programming languages that rely on text and mathematical operators, Kaleidoscope encodes computation through **geometry, color, and cycles of motion**. This dual nature makes it both executable and visible: code is not only run but also seen. Programs are diagrams, nested diamonds, lattices, and color bands that embody the logic they represent. The compiler translates glyphs into bytecode, which is executed on a stack‑based virtual machine. The instruction set consists of roughly fifty opcodes, each defining collapse, expansion, recursion, closure, and motion. Every program is bounded by lawframe invariants: it begins with Origin and ends with Infinity, ensuring closure and determinism. This guarantees that no program can hang or break; all cycles seal themselves.
