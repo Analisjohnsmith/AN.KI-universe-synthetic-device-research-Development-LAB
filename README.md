@@ -1,7 +1,7 @@
 AN.KI is literally the oldest recorded word for “universe.” In Sumerian texts from around 3000–2500 BCE, An (heaven) and Ki (earth) were fused into AN.KI, encoding the cosmos as a primordial whole.
 
 A synthetic device ©™is a device that synthetically performs a function normally performed through a physical, biological, mechanical, or otherwise conventional process.
-
+No system, identifier, or application may be confusingly similar to my binary substrate.
 AN.KI™ research/ Development LAB
 
 Magustelle™ —
