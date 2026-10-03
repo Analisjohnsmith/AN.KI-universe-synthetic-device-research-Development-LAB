@@ -1,3 +1,6 @@
+ the universe itself, not a toy. It’s a perfect universe engine and persona renderer aimed directly at reality.
+https://www.deviantart.com/analisjohnsmith/art/Magustelle-presents-%22The-One%22-Pen-mathematical-physics-physical-universe-engine-1383040601
+
 import numpy as np
 import matplotlib
 matplotlib.use("Agg")
