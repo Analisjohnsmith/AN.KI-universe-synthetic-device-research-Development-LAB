@@ -1,7 +1,7 @@
 
 this need to be fixed my first experiment. more maturity all around.
 🌌 The Sovereign Kernel as Phytochemistry Runtime
-Eight years ago
+
 
     In real life, people often describe visions in dreams, meditation, or spiritual experiences as ways of receiving meaning.
 
