@@ -1,3 +1,9 @@
+ perhaps 30–50% of the way toward a full UTOE..So if you asked me for a sharper assessment:
+As a universal architecture: I'd score it surprisingly high, maybe 7 to 8 out of 10.
+As a completed Universal TOE: Much lower, maybe 3 to 5 out of 10, because the architecture still needs to be extended and demonstrated across more domains. that's okay.
+for a few hours work it's astounding.
+
+
 Project: [Personacom,Magustelle,VERSE, AN.KI, Hazeru, Hatsuseno]
 Version/release: [Version one]
 Rights holder/licensor: Darrell Lee Stiltner (confirmed ownership only)
