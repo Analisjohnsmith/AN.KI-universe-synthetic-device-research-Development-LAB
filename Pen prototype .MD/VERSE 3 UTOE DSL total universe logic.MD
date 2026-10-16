@@ -1740,6 +1740,8 @@ python nature_logic_toe.py
 Use `run_verse_program()` with Verse code, `run_simulation()` for direct API, `run_validation()` for full suite.
 
 ---
+https://github.com/Analisjohnsmith/Personacom/blob/main/Theory%20of%20life%20%26%20Substrate%20Theory%20Of%20Everything%20PersonaCom.md
+
 
 ## END — ALL CONTENT PRESERVED WITH ZERO LOSS
 ```
