@@ -144,7 +144,7 @@ This means GENESIS is not just an OS — it is an **OS of OSes**. It can host mu
 
 ---
 
-## **4. Meta‑Tech: A Theory of Technology**
+## **4. Meta‑Tech: A Theory of  everything in Technology**
 
 GENESIS also embeds a **meta‑tech theory**. It shows that all technology — operating systems, AI, networks, physics engines — reduces to the same primitives:
 
